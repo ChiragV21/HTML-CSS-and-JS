@@ -1,0 +1,35 @@
+body{
+    box-sizing: border-box;
+    padding: 40px;
+    margin-top: 60px;
+    font-family: Arial;
+    background-color:rgb(93, 184, 184);
+    text-align: center;
+}
+
+button{
+    width: 250px;
+    padding: 12px;
+    background-color: #333;
+    color:white;
+    font-size: 20px;
+    outline: none;
+}
+
+button:hover{
+    background-color:crimson;
+    color:white;
+}
+
+#demo{
+    color:black;
+    font-size: 28px;
+    font-family: cursive;
+}
+
+#author{
+    color:saddlebrown;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
